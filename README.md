@@ -10,7 +10,7 @@ I’m always eager to learn new technologies, contribute to open-source projects
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![HTML5](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
