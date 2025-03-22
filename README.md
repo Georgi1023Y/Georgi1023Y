@@ -10,18 +10,21 @@ I’m always eager to learn new technologies, contribute to open-source projects
 
 ## 💻 Tech Stack
 
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--css3.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--javascript.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--typescript.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--react.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--nextjs-light.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/vscode-icons--file-type-node.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--expressjs-dark.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--mongodb.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--postgresql.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--docker.svg" width="50" height="50">
-<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--graphql-dark.svg" width="50" height="50">
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--css3.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--javascript.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--typescript.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--react.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--nextjs-light.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/vscode-icons--file-type-node.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--expressjs-dark.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--mongodb.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--postgresql.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--docker.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--graphql-dark.svg" width="50" height="50">
+</div>
+
 
 ---
 
