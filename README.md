@@ -10,18 +10,18 @@ I’m always eager to learn new technologies, contribute to open-source projects
 
 ## 💻 Tech Stack
 
-![HTML5](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg)
-![CSS3](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--css3.svg)
-![JavaScript](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--javascript.svg)
-![TypeScript](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--typescript.svg)
-![React](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--react.svg)
-![Next.js](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--nextjs-light.svg)
-![Node.js](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/vscode-icons--file-type-node.svg)
-![Express.js](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--expressjs-dark.svg)
-![MongoDB](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--mongodb.svg)
-![PostgreSQL](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--postgresql.svg)
-![Docker](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--docker.svg)
-![GraphQL](https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--graphql-dark.svg)
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--css3.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--javascript.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--typescript.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--react.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--nextjs-light.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/vscode-icons--file-type-node.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--expressjs-dark.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--mongodb.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--postgresql.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--docker.svg" width="50" height="50">
+<img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--graphql-dark.svg" width="50" height="50">
 
 ---
 
