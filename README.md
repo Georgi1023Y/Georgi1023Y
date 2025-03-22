@@ -10,7 +10,7 @@ I’m always eager to learn new technologies, contribute to open-source projects
 
 ## 💻 Tech Stack
 
-<div style="display: flex; gap: "35px";">
+<div style="display: flex; gap: 35;">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--html5.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--css3.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--javascript.svg" width="50" height="50">
