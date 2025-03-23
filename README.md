@@ -19,6 +19,7 @@ I’m always eager to learn new technologies, contribute to open-source projects
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--nextjs-light.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/vscode-icons--file-type-node.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--expressjs-dark.svg" width="50" height="50">
+    <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--mysql.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/skill-icons--mongodb.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/logos--postgresql.svg" width="50" height="50">
     <img src="https://github.com/Georgi1023Y/Georgi1023Y/blob/main/devicon--docker.svg" width="50" height="50">
