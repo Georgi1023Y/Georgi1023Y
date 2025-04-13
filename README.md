@@ -39,10 +39,6 @@ I'm currently learning, building projects, and contributing to open-source. My s
 
 ### 🚀 Personal Portfolio Website - https://portfolio-website-tau-navy.vercel.app/
 
-### 🌟 Skill Bridge - https://github.com/Georgi1023Y/SkillBridge
-This is web app where students can add their homeworks. There are charts and AI chat bot that helps them learn faster.
-This project was for Bulgarian National IT Competition 2025.
-
 ---
 
 ## 🌎 Let's Connect!
