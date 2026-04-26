@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 **Proven Impact (Top Upwork Projects)**
+### 🚀 **Top Projects**
 
 * 🏛️ **EU Single Market Engine**: Automated governmental IMI data workflows with 100% accuracy.
 * 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle.
