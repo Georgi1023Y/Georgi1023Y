@@ -14,7 +14,7 @@
 **🤖 AI & Intelligent Automations**
 <br/><br/>
 [![AI Skills](https://skillicons.dev/icons?i=py,openai&theme=dark)](https://skillicons.dev)
-* **Specialized in:** Anthropic (Claude AI) reasoning, real-time Sentiment Analysis, and web scraping via Apify.
+* **Specialized in:** Anthropic reasoning, real-time Sentiment Analysis, and web scraping via Apify.
 
 **🌐 Web & Mobile Development**
 <br/><br/>
