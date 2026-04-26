@@ -1,6 +1,5 @@
 # 👋 I'm Georgi Beshirov
 ### **Technical Architect & AI Solutions Engineer**
-**Verified Upwork Rising Talent | 5-Star Rated | $1K+ Earned**
 
 ## ![AI Integrations](https://img.shields.io/badge/AI_INTEGRATIONS-FULL--STACK_ARCHITECTURE-007ACC?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -25,8 +24,8 @@
 
 ### 🚀 **Proven Impact (Top Upwork Projects)**
 
-* 🏛️ **EU Single Market Engine ($600)**: Automated governmental IMI data workflows with 100% accuracy.
-* 💳 **B2B Escrow Integration ($300)**: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
+* 🏛️ **EU Single Market Engine: Automated governmental IMI data workflows with 100% accuracy.
+* 💳 **B2B Escrow Integration: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
 * 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram (Claude AI + Apify).
 
 ---
