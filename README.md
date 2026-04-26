@@ -1,7 +1,9 @@
 # 👋 I'm Georgi Beshirov
 ### **Technical Architect & AI Solutions Engineer**
 
-## ![AI Integrations](https://img.shields.io/badge/AI_INTEGRATIONS-FULL--STACK_ARCHITECTURE-007ACC?style=for-the-badge&logo=openai&logoColor=white)
+---
+
+![AI Integrations](https://img.shields.io/badge/AI_INTEGRATIONS-007ACC?style=for-the-badge&logo=openai&logoColor=white) ![Full-Stack Architecture](https://img.shields.io/badge/FULL--STACK_ARCHITECTURE-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 > "I turn manual chaos into automated systems. I build MVPs that **just work**, so you can focus on growth."
 
@@ -10,22 +12,25 @@
 ### 💻 **My Technical Arsenal**
 
 **🤖 AI & Intelligent Automations**
-[![AI Skills](https://skillicons.dev/icons?i=py,openai,bot&theme=dark)](https://skillicons.dev)
+<br/>
+[![AI Skills](https://skillicons.dev/icons?i=py,openai&theme=dark)](https://skillicons.dev)
 * **Specialized in:** Anthropic (Claude AI) reasoning, real-time Sentiment Analysis, and web scraping via Apify.
 
 **🌐 Web & Mobile Development**
+<br/>
 [![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,postgres,supabase,docker,apple&theme=dark)](https://skillicons.dev)
 * **Performance:** High-speed Next.js architectures & PostgreSQL optimization.
 
 **📊 Workflow & Tools**
+<br/>
 [![Tools](https://skillicons.dev/icons?i=githubactions,git,vscode,figma,postman,linux,aws,vercel&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🚀 **Proven Impact (Top Upwork Projects)**
 
-* 🏛️ **EU Single Market Engine: Automated governmental IMI data workflows with 100% accuracy.
-* 💳 **B2B Escrow Integration: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
+* 🏛️ **EU Single Market Engine**: Automated governmental IMI data workflows with 100% accuracy.
+* 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
 * 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram (Claude AI + Apify).
 
 ---
