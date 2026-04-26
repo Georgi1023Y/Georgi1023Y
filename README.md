@@ -12,17 +12,17 @@
 ### 💻 **My Technical Arsenal**
 
 **🤖 AI & Intelligent Automations**
-<br/>
+<br/><br/>
 [![AI Skills](https://skillicons.dev/icons?i=py,openai&theme=dark)](https://skillicons.dev)
 * **Specialized in:** Anthropic (Claude AI) reasoning, real-time Sentiment Analysis, and web scraping via Apify.
 
 **🌐 Web & Mobile Development**
-<br/>
+<br/><br/>
 [![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,postgres,supabase,docker,apple&theme=dark)](https://skillicons.dev)
 * **Performance:** High-speed Next.js architectures & PostgreSQL optimization.
 
 **📊 Workflow & Tools**
-<br/>
+<br/><br/>
 [![Tools](https://skillicons.dev/icons?i=githubactions,git,vscode,figma,postman,linux,aws,vercel&theme=dark)](https://skillicons.dev)
 
 ---
@@ -30,8 +30,8 @@
 ### 🚀 **Proven Impact (Top Upwork Projects)**
 
 * 🏛️ **EU Single Market Engine**: Automated governmental IMI data workflows with 100% accuracy.
-* 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
-* 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram (Claude AI + Apify).
+* 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle.
+* 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram.
 
 ---
 
