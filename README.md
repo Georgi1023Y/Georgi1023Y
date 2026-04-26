@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 I'm Georgi Beshirov
+### **Technical Architect & AI Solutions Engineer**
+**Verified Upwork Rising Talent | 5-Star Rated | $1K+ Earned**
 
-<!--
-**Georgi1023Y/Georgi1023Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ![AI Integrations](https://img.shields.io/badge/AI_INTEGRATIONS-FULL--STACK_ARCHITECTURE-007ACC?style=for-the-badge&logo=openai&logoColor=white)
 
-Here are some ideas to get you started:
+> "I turn manual chaos into automated systems. I build MVPs that **just work**, so you can focus on growth."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 **My Technical Arsenal**
+
+**🤖 AI & Intelligent Automations**
+[![AI Skills](https://skillicons.dev/icons?i=py,openai,bot&theme=dark)](https://skillicons.dev)
+* **Specialized in:** Anthropic (Claude AI) reasoning, real-time Sentiment Analysis, and web scraping via Apify.
+
+**🌐 Web & Mobile Development**
+[![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,postgres,supabase,docker,apple&theme=dark)](https://skillicons.dev)
+* **Performance:** High-speed Next.js architectures & PostgreSQL optimization.
+
+**📊 Workflow & Tools**
+[![Tools](https://skillicons.dev/icons?i=githubactions,git,vscode,figma,postman,linux,aws,vercel&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🚀 **Proven Impact (Top Upwork Projects)**
+
+* 🏛️ **EU Single Market Engine ($600)**: Automated governmental IMI data workflows with 100% accuracy.
+* 💳 **B2B Escrow Integration ($300)**: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
+* 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram (Claude AI + Apify).
+
+---
+
+### 🌎 **Let's Connect**
+<p align="left">
+<a href="mailto:beshirovgeorgi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~01a416a33111fc91fe"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/georgi-beshirov-a6531523b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
