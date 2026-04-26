@@ -1,5 +1,5 @@
 # 👋 I'm Georgi Beshirov
-### **AI Solutions Engineer & Technical Architect**
+## **AI Solutions Engineer & Technical Architect**
 
 ---
 
@@ -11,17 +11,17 @@
 
 ### 💻 **My Technical Arsenal**
 
-**🤖 AI & Intelligent Automations**
+#### **🤖 AI & Intelligent Automations**
 <br/><br/>
 [![AI Skills](https://skillicons.dev/icons?i=py,openai&theme=dark)](https://skillicons.dev)
 * **Specialized in:** Anthropic reasoning, real-time Sentiment Analysis, and web scraping via Apify.
 
-**🌐 Web & Mobile Development**
+#### **🌐 Web & Mobile Development**
 <br/><br/>
 [![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,postgres,supabase,docker,apple&theme=dark)](https://skillicons.dev)
 * **Performance:** High-speed Next.js architectures & PostgreSQL optimization.
 
-**📊 Workflow & Tools**
+#### **📊 Workflow & Tools**
 <br/><br/>
 [![Tools](https://skillicons.dev/icons?i=githubactions,git,vscode,figma,postman,linux,aws,vercel&theme=dark)](https://skillicons.dev)
 
@@ -30,8 +30,8 @@
 ### 🚀 **Top Projects**
 
 * 🏛️ **EU Single Market Engine**: Automated governmental IMI data workflows with 100% accuracy.
-* 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle.
-* 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram.
+* 💳 **B2B Escrow Integration**: Built a secure 7-day payment cycle (Perfect 5.0 Feedback).
+* 🤖 **AlphaFlow AI Bot**: Real-time market sentiment via Telegram (Claude AI + Apify).
 
 ---
 
