@@ -1,5 +1,5 @@
 # 👋 I'm Georgi Beshirov
-### **Technical Architect & AI Solutions Engineer**
+### **AI Solutions Engineer & Technical Architect**
 
 ---
 
