@@ -23,7 +23,7 @@
 
 ## 🧠 Background
 
-- 🎓 **Computer Science @ Sofia University (FMI)** — strong engineering fundamentals.
+- 🎓 **Computer Science @ Sofia University** — strong engineering fundamentals.
 - 🎮 Started in **2021** with JavaScript game development (logic + performance mindset).
 - 🐍 Progressed into **Python**, **Full-Stack**, and now **AI Integrations + ML systems**.
 
